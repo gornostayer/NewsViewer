@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsViewer</string>
+    <integer name="com_vk_sdk_AppId">7049336</integer>
+    <string name="custom_menu_item">Новая группа</string>
+</resources>
